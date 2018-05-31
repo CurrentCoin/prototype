@@ -6,9 +6,9 @@ class Home extends Component {
       <div>
 <h2>Instructions</h2>
 <p>
-Welcome to CurrentCoin! We're excited to share our vision of website deployment in 2018, using the full power of a distributed ledger, without the wait and hassle of credit cards and payments through centralized banking.
+Welcome to CurrentCoin! We're excited to share our vision of website deployment in 2018, using the full power of a distributed ledger.
 
-Imagine creating your own pool of software deployment value, renewed and controlled on your personal schedule, stored as CurrentCoin on the Ethereum network.
+Imagine creating a your own pool of value, stored as CurrentCoin, renewed on your personal schedule.
 
 Create your own website for your business powered by a continuous stream of cryptocurrency.
 
