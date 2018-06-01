@@ -13,7 +13,6 @@ class Main extends Component {
       return (
       <HashRouter>	  
         <div>
-          <h1>CurrentCoin Prototype</h1>
               <ul className="header">
             <li><NavLink to="/">Home</NavLink></li>
             <li><NavLink to="/background">Background</NavLink></li>
