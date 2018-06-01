@@ -6,6 +6,14 @@ class Home extends Component {
       <div>
 <h2>Instructions</h2>
 <p>
+Welcome to CurrentCoin! We're excited to share our vision of website deployment in 2018, using the full power of a distributed ledger.
+
+Imagine creating a your own pool of value, stored as CurrentCoin, renewed on your personal schedule.
+
+Create your own website for your business powered by a continuous stream of cryptocurrency.
+
+Decide for yourself the time you need to deploy based on your personal needs and without scheduled monthly renewal deadlines.
+
 Visit the CurrentCoin <a href="http://current-coin.us-east-2.elasticbeanstalk.com/">prototype</a> site.
 </p><p>
 	    You are automatically given demonstration CurrentCoin to use the prototype. This CurrentCoin has no value, since this is a demo on a test network.
