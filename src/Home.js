@@ -51,6 +51,12 @@ This completes the process: you used a token to send coins to an address, and in
 <p>
 Congratulations!
 	</p>
+
+<p>
+  You can learn more about the prototype, see this
+  document: <a href="report_prototype.pdf">report_prototype.pdf</a>
+</p>
+
 <h2> Context </h2>
 <p>
 If you are new to Ethereum and would like to learn more, start with this <a href="https://www.youtube.com/watch?v=j23HnORQXvs">YouTube introduction</a> to Ethereum.
